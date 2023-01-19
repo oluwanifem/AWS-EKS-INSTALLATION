@@ -21,5 +21,6 @@ clear
 echo "Please Run the command aws configure to setup your aws account after you see AWS CLI INSTALLED SUCCESSFULLY"
 sleep 5
 clear
+rm -f awscliv2.zip
 echo AWS CLI INSTALLED SUCCESSFULLY
 
